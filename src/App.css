@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+img {
+  width: 40%;
+}
+.size img {
+  width: 5%;
+}
+.omar {
+  /* height: 100vh;
+  width: 100vw; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 60px;
+  text-align: center;
+  /* width: 500px;
+  height: 500px; */
+}
+.small {
+  width: 500px;
+}
+.product-image {
+  width: 150px;
+  height: 150px;
+}
